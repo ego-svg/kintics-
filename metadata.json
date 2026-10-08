@@ -1,0 +1,7 @@
+{
+  "name": "KINESIS // 3D Virtual Asset & Commerce Engine",
+  "description": "Ultra-fluid editorial 3D virtual asset and commerce engine for luxury fashion brands, blending high-end haute couture aesthetics with real-time WebGL spatial dynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
